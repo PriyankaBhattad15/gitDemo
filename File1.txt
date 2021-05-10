@@ -1,1 +1,2 @@
-This is git repository
+This is git repository in local branch
+
